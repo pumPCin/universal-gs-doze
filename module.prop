@@ -1,0 +1,7 @@
+id=universal-gs-doze
+name=Universal Galaxy Store Doze
+version=1.0.0
+versionCode=100
+author=pumPCin
+description=Patches Galaxy Store app and its background processes to be able to use battery optimizations.
+updateJson=https://raw.githubusercontent.com/pumPCin/universal-gs-doze/master/module.json
